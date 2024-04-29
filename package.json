@@ -1,11 +1,11 @@
 {
-  "name": "js-10hw-package",
+  "name": "js-10hw",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-10hw-package/",
+    "build": "vite build --base=/js-10hw/",
     "preview": "vite preview"
   },
   "devDependencies": {
